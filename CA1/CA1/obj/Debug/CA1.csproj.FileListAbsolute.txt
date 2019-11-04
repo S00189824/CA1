@@ -1,0 +1,7 @@
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\bin\Debug\CA1.exe.config
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\bin\Debug\CA1.exe
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\bin\Debug\CA1.pdb
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\obj\Debug\CA1.csprojAssemblyReference.cache
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\obj\Debug\CA1.csproj.CoreCompileInputs.cache
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\obj\Debug\CA1.exe
+C:\Users\S00189824\Documents\GitHub\CA1\CA1\CA1\obj\Debug\CA1.pdb
